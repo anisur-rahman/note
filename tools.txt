@@ -1,1 +1,6 @@
-
+Can you create a model where the F1 score test data > .90
+    To push the F1 score above 0.90 on your heart dataset’s test set, we’ll likely need to:
+    Try more complex models (e.g., XGBoost, LightGBM).
+    Tune hyperparameters with cross-validation.
+    Do feature engineering (removing low-importance features, transforming variables).
+    Consider stratified splits to keep class balance in train/test.
