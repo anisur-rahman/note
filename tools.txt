@@ -4,3 +4,6 @@ Can you create a model where the F1 score test data > .90
     Tune hyperparameters with cross-validation.
     Do feature engineering (removing low-importance features, transforming variables).
     Consider stratified splits to keep class balance in train/test.
+
+ngrok
+Streamlit
