@@ -1,3 +1,6 @@
+VS Code for Data and AI Projects
+    https://datalumina.clickup.com/docs/9015213037/d/h/8cnjezd-17675/ddd52c673443975
+
 Can you create a model where the F1 score test data > .90
     To push the F1 score above 0.90 on your heart dataset’s test set, we’ll likely need to:
     Try more complex models (e.g., XGBoost, LightGBM).
