@@ -2,3 +2,5 @@
 
 https://dev.mrdbourke.com/zero-to-mastery-ml/
 Welcome to the Zero to Mastery Data Science and Machine Learning Bootcamp!
+
+https://github.com/mrdbourke/zero-to-mastery-ml/discussions
