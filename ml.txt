@@ -4,3 +4,6 @@ https://dev.mrdbourke.com/zero-to-mastery-ml/
 Welcome to the Zero to Mastery Data Science and Machine Learning Bootcamp!
 
 https://github.com/mrdbourke/zero-to-mastery-ml/discussions
+
+MLOps Essentials for Developers and AI Engineers: Tools, Pipelines, Security
+https://www.linkedin.com/learning/paths/mlops-essentials-for-developers-and-ai-engineers-tools-pipelines-security
